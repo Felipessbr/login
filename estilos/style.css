@@ -30,6 +30,8 @@ section{
     height: 500px;
     border-radius: 30px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.302);
+    transition: width 1s, heigt 1s;
+    transition-timing-function: ease;
 }
 #imagem{
     display: block;
